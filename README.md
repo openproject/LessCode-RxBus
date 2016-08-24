@@ -1,4 +1,4 @@
-[ ![Download](https://api.bintray.com/packages/openproject/maven/lesscode-ui/images/download.svg) ](https://bintray.com/openproject/maven/lesscode-ui/_latestVersion)
+[ ![Download](https://api.bintray.com/packages/openproject/maven/lesscode-rxbus/images/download.svg) ](https://bintray.com/openproject/maven/lesscode-ui/_latestVersion)
 
 # LessCode-RxBus
 event bus tool implemented by rxjava.
